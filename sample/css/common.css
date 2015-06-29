@@ -1,0 +1,36 @@
+@charset "utf-8";
+/*
+ * Style Name   : COMMON CSS
+ * Style URI    : common.css
+ * Description  : 共通スタイルシート
+ */
+/* ***************************************** */
+/* default default default default default */
+html {
+	overflow-y: scroll;
+}
+
+body {
+	color: #666666;
+	font-size: 12px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+img {
+	max-width: 100%;
+	vertical-align: top;
+}
+
+/* link link link link link */
+a:link {
+	color:#0000FF;
+}
+a:visited {
+	color:#551A8B;
+}
+a:hover {
+	color:#0000FF;
+}
+a:forcus {
+	color:#CC1111;
+}
