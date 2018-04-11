@@ -76,3 +76,5 @@ exclude:
     - README.md
     - CNAME
     - vendor
+
+theme: jekyll-theme-slate
